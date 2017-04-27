@@ -1,0 +1,41 @@
+{
+    "name": "gamergrotto",
+    "title": "Gamer Grotto",
+    "homepage": "http://gamergrotto.com",
+    "version": "1.0.0",
+    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "author": "Levon Becker",
+    "license": "MIT",
+    "keywords": [
+        "games",
+        "video games"
+    ],
+    "bugs": {
+        "url": "https://github.com/gamergrotto/dotcom/issues",
+        "email": "feedback@gamergrotto.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gamergrotto/dotcom.git"
+    },
+    "dependencies": {
+        "simple-line-icons": "^2.3.2"
+    },
+    "devDependencies": {
+        "bootstrap": "^3.3.7",
+        "browser-sync": "^2.13.0",
+        "font-awesome": "^4.6.3",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "^2.0.10",
+        "gulp-header": "^1.8.7",
+        "gulp-less": "^3.1.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-uglify": "^1.5.4",
+        "jquery": "^1.11.3",
+        "gulp-s3-upload": "^1.6.4",
+        "imagemin": "^5.2.2",
+        "gulp-imagemin": "^3.2.0",
+        "gulp-clean": "^0.3.2",
+        "run-sequence": "^1.2.2"
+    }
+}
